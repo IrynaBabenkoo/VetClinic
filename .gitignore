@@ -1,0 +1,25 @@
+
+# .NET build files
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# JetBrains Rider
+.idea/
+
+# Environment and secrets
+.env
+.env.*
+appsettings.Development.json
+secrets.json
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
